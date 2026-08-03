@@ -48,27 +48,6 @@ The AI Voice Assistant is designed to simplify everyday computer operations thro
 * Animated voice wave
 * Simple and modern design
 
-# Project Architecture
-
-                     User
-                       │
-               Voice/Text Command
-                       │
-              Speech Recognition
-                       │
-                Command Processing
-                       │
-        ┌──────────────┴──────────────┐
-        │                             │
-   System Commands             Web Commands
-        │                             │
-   Open Applications         Search/Open Websites
-        │                             │
-        └──────────────┬──────────────┘
-                       │
-                    Response
-
-
 # Technology Stack
 
 ## Backend
